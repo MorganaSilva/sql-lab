@@ -1,4 +1,4 @@
-# SQL Lab: Advanced Performance & Engineering
+# SQL Lab
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15%2B-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Focus](https://img.shields.io/badge/Focus-Performance%20%26%20Internals-red?style=for-the-badge)
